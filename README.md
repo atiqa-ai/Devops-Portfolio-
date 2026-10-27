@@ -101,6 +101,6 @@ The portfolio is intentionally lightweight, responsive, and maintainable.
 
 ## License
 
-MIT License © 2026 
+MIT License © 2026 Atiqa Mushtaq 
 
-Atiqa MushtaqPersonal content (profile, experience, projects, certificates) remains the property of Atiqa Mushtaq and should not be reused as one’s own work.text
+Personal content (profile, experience, projects, certificates) remains the property of Atiqa Mushtaq and should not be reused as one’s own work.text
